@@ -1,0 +1,25 @@
+{
+  "name": "testingtodo",
+  "version": "1.0.0",
+  "description": "simple to do for testing internally",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesarinag/testingToDo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cesarinag/testingToDo/issues"
+  },
+  "homepage": "https://github.com/cesarinag/testingToDo#readme",
+  "dependencies": {
+    "is-even": "^1.0.0",
+    "is-number": "^7.0.0",
+    "is-odd": "^3.0.1",
+    "upper-case": "^2.0.2"
+  }
+}
